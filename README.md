@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I’m Bidash Gurung
 
-<!--
-**bidash-gurung/bidash-gurung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 **Thimphu, Bhutan**  
+📫 **Email:** bidashgurung4040@gmail.com  
+🔗 [LinkedIn Profile](https://linkedin.com/in/bidash-gurung)  
+📞 **Phone:** +975 17585173
 
-Here are some ideas to get you started:
+🎓 **Bachelor of Computer Science (AI Specialization)** – Gyalpozhing College of Information Technology (2021–2025)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 I’m currently working on
+
+- **PMO Dashboard**  
+  A full-stack dashboard that visualizes data from Bhutan’s Economic, Social, and Governance sectors.  
+  Includes chatbot integration for dynamic insights and user engagement.
+
+---
+
+## 🌱 I’m currently learning
+
+- AI model optimization techniques  
+- CI/CD pipelines with GitHub Actions & AWS  
+- Flutter animations & custom widgets
+
+---
+
+## 👯 I’m looking to collaborate on
+
+- AI-powered assistive tools (like Lagda AI)  
+- Full-stack web or mobile apps  
+- Open-source data dashboards and chatbot integration projects
+
+---
+
+## 🤔 I’m looking for help with
+
+- Scaling and deploying AI models  
+- Collaborating on tech-for-good innovations
+
+---
+
+## 💬 Ask me about
+
+- Full-stack development using **Flutter**, **React.js**, **Node.js**, **Express**, **MongoDB**, **MySQL**  
+- AI model training with **TensorFlow**, **OpenCV**, **NLP**, **LSTM**  
+- Assistive tech and sign languag
